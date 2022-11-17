@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Increment_Count_using_React_ASS2/static/css/main.073c9b0a.css",
+    "main.js": "/Increment_Count_using_React_ASS2/static/js/main.869b9bfb.js",
+    "static/js/787.8bb0473a.chunk.js": "/Increment_Count_using_React_ASS2/static/js/787.8bb0473a.chunk.js",
+    "static/media/logo.svg": "/Increment_Count_using_React_ASS2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Increment_Count_using_React_ASS2/index.html",
+    "main.073c9b0a.css.map": "/Increment_Count_using_React_ASS2/static/css/main.073c9b0a.css.map",
+    "main.869b9bfb.js.map": "/Increment_Count_using_React_ASS2/static/js/main.869b9bfb.js.map",
+    "787.8bb0473a.chunk.js.map": "/Increment_Count_using_React_ASS2/static/js/787.8bb0473a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.869b9bfb.js"
+  ]
+}
